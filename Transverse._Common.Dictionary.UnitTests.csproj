@@ -1,0 +1,5 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Src\Transverse._Common.Dictionary\Transverse._Common.Dictionary.csproj" />
+  </ItemGroup>
+</Project>
